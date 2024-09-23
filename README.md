@@ -4,7 +4,6 @@
 
 ## Venue: JGI User Meeting
 
-Participant size: \~15-20 students 
 
 Organizers: Satria Kautsar and Zhong Wang  
 Agenda
@@ -18,7 +17,7 @@ This workshop serves as an introduction to JGI's scalable metagenomics toolbox. 
 9:00-9:05	Introduction to JGI's scalable metagenomics toolbox (Zhong Wang)  
 9:05-9:20	Terabase Scale Metagenomics for Scientific Discovery (Kurt LaButti)  
 9:20-9:30	Large Scale Metagenome Assembly Using MetaHipMer (Rob Egan)  
-9:30-9:40	Metagenome Binning with MetaBAT and GenomeFace (Richard Lettich)  
+9:30-9:40	Metagenome Binning with MetaBAT and GenomeFace (Rob Egan)  
 9:40-9:50	Large Scale Metagenome Protein Family Detection with HipMCL (Aydin Buluc)  
 9:50-10:00	Large Scale Biosynthetic Gene Cluster Discovery with Axolotl (Satria Kautsar)
 
