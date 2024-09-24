@@ -12,6 +12,11 @@ Agenda
 
 This workshop serves as an introduction to JGI's scalable metagenomics toolbox. Presentations will cover large-scale metagenome assembly using MetaHipMer, metagenome binning with MetaBAT and GenomeFace, and large-scale metagenome protein family detection with HipMCL. We will also introduce a new Apache Spark based scalable genomics library, Axolotl, and demo its usage in large-scale biosynthetic gene cluster discovery. The workshop will also have a hands-on component focused on customized analysis with Axolotl using cloud computing. This workshop is designed for users who are interested in using the JGI scalable tools for customized large-scale data analysis.
 
+#### Surveys
+Please fill out the preworkshop survey:
+[Preworkshop Survey] (https://forms.gle/9Cx4BDdp7okz4jp26)
+
+
 #### Morning Session: Lectures
 
 9:00-9:05	Introduction to JGI's scalable metagenomics toolbox (Zhong Wang)  
@@ -23,10 +28,9 @@ This workshop serves as an introduction to JGI's scalable metagenomics toolbox. 
 
 10:00-10:20	Coffee and Networking Break (meet the developers\!)
 
-10:20-10:30	Introduction to GCP’s DataProc Spark Service (Google)  
-10:30-11:00	Using DataProc handson  
-11:00-12:00	Hands On workshop: customized analysis with Axolotl (Satria Kautsar et al)  
-Toy problem to do it on their laptop or DataProc, but (later) scalable on HPC or Cloud
+10:20-10:30	Introduction to GCP’s DataProc Spark Service (Steven Boesel, Google)
+10:30-11:00	Using DataProc handson (Steven Boesel, Google)
+11:00-12:00	Hands On workshop: customized analysis with Axolotl Toy problem to do it on their laptop or DataProc, but (later) scalable on HPC or Cloud.  (Satria Kautsar, Fengchen Liu, Zhong Wang)
 
 ### Notes
 
