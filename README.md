@@ -6,7 +6,6 @@
 
 
 Organizers: Satria Kautsar and Zhong Wang  
-Agenda
 
 ## Description:
 
@@ -16,6 +15,8 @@ This workshop serves as an introduction to JGI's scalable metagenomics toolbox. 
 Please fill out the preworkshop survey:
 [Preworkshop Survey] (https://forms.gle/9Cx4BDdp7okz4jp26)
 
+
+## Agenda
 
 #### Morning Session: Lectures
 
