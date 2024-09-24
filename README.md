@@ -30,7 +30,9 @@ Please fill out the preworkshop survey:
 10:00-10:20	Coffee and Networking Break (meet the developers\!)
 
 10:20-10:30	Introduction to GCP’s DataProc Spark Service (Steven Boesel, Google)
+
 10:30-11:00	Using DataProc handson (Steven Boesel, Google)
+
 11:00-12:00	Hands On workshop: customized analysis with Axolotl Toy problem to do it on their laptop or DataProc, but (later) scalable on HPC or Cloud.  (Satria Kautsar, Fengchen Liu, Zhong Wang)
 
 ### Notes
