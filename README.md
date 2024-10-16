@@ -14,6 +14,7 @@ This workshop serves as an introduction to JGI's scalable metagenomics toolbox. 
 #### Surveys
 Please fill out the preworkshop survey:
 [Preworkshop Survey] (https://forms.gle/9Cx4BDdp7okz4jp26)
+[Postworkshop Survey] (https://forms.gle/KsHurxFkZaxN9D8U6)
 
 
 ## Agenda
